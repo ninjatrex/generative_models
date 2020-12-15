@@ -2,8 +2,8 @@ from src.utils import *
 import pandas as pd
 
 datasets = {
-    'cicddos2019_train': 'datasets/download/cicddos2019_train_transformed.csv',
-    'cicddos2019_test': 'datasets/download/cicddos2019_test_transformed.csv',
+    'cicddos2019_train': '../../lib/datasets/download/cicddos2019_train_transformed.csv',
+    'cicddos2019_test': '../../lib/datasets/download/cicddos2019_test_transformed.csv',
 }
 
 
